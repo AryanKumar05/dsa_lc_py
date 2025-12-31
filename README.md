@@ -10,6 +10,7 @@ A collection of my solved list of leetcode questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
@@ -21,6 +22,7 @@ A collection of my solved list of leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0125-valid-palindrome) |
@@ -54,6 +56,7 @@ A collection of my solved list of leetcode questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
