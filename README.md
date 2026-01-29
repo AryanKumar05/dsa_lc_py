@@ -42,6 +42,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
