@@ -14,7 +14,7 @@ class Solution(object):
         for i in range(n+1):
             bits=counter(i)
             idx.append(bits)
-        __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
+        
         return idx
 
            
