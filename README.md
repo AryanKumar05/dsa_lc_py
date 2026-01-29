@@ -59,6 +59,7 @@ A collection of my solved list of leetcode questions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -93,4 +94,5 @@ A collection of my solved list of leetcode questions
 | ------- |
 | [0136-single-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
