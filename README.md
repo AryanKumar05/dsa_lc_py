@@ -70,6 +70,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
