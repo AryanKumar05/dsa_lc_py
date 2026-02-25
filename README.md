@@ -20,6 +20,7 @@ A collection of my solved list of leetcode questions
 | [0136-single-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
@@ -48,6 +49,7 @@ A collection of my solved list of leetcode questions
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
