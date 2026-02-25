@@ -32,12 +32,14 @@ A collection of my solved list of leetcode questions
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -96,4 +98,8 @@ A collection of my solved list of leetcode questions
 | [0136-single-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0338-counting-bits) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
