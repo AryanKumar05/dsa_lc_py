@@ -93,6 +93,7 @@ A collection of my solved list of leetcode questions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -121,4 +122,5 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
