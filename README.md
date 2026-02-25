@@ -38,6 +38,7 @@ A collection of my solved list of leetcode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of my solved list of leetcode questions
 | [0061-rotate-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
