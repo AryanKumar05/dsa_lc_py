@@ -27,6 +27,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
@@ -101,5 +102,6 @@ A collection of my solved list of leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
