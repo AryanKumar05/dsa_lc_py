@@ -47,6 +47,7 @@ A collection of my solved list of leetcode questions
 | [0142-linked-list-cycle-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of my solved list of leetcode questions
 | [0058-length-of-last-word](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
