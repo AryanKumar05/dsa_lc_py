@@ -52,6 +52,7 @@ A collection of my solved list of leetcode questions
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of my solved list of leetcode questions
 | [0151-reverse-words-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
