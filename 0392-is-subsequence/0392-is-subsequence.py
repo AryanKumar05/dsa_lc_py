@@ -1,17 +1,9 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        # prev = -1
-        # for char in s:
-        #     pos = t.find(char, prev + 1)
-        #     if pos == -1:
-        #         return False
-        #     prev = pos
-        # return True
-
-        ptr_s=ptr_t=0
-        while ptr_s<len(s) and ptr_t<len(t):
-            if s[ptr_s]==t[ptr_t]:
-                ptr_s+=1
-            ptr_t+=1
-        return ptr_s>=len(s)
-            
+        i=0
+        j=0
+        while i<len(s) and j<len(t):
+            if s[i]==t[j]:
+                i+=1
+            j+=1
+        return i==len(s)
