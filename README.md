@@ -29,6 +29,7 @@ A collection of my solved list of leetcode questions
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of my solved list of leetcode questions
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -117,6 +119,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
