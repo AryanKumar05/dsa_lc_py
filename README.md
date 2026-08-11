@@ -26,6 +26,7 @@ A collection of my solved list of leetcode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
@@ -118,6 +119,7 @@ A collection of my solved list of leetcode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
