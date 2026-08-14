@@ -55,6 +55,7 @@ A collection of my solved list of leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0128-longest-consecutive-sequence) |
@@ -100,6 +101,7 @@ A collection of my solved list of leetcode questions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0049-group-anagrams) |
@@ -165,6 +167,7 @@ A collection of my solved list of leetcode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
