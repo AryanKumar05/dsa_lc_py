@@ -50,6 +50,7 @@ A collection of my solved list of leetcode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of my solved list of leetcode questions
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -107,6 +109,7 @@ A collection of my solved list of leetcode questions
 | [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
@@ -164,6 +167,7 @@ A collection of my solved list of leetcode questions
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
 ## Tree
 |  |
 | ------- |
