@@ -18,6 +18,7 @@ A collection of my solved list of leetcode questions
 | [0027-remove-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of my solved list of leetcode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0191-number-of-1-bits) |
 ## Sorting
@@ -90,6 +92,7 @@ A collection of my solved list of leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0338-counting-bits) |
