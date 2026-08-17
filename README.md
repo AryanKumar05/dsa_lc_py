@@ -37,6 +37,7 @@ A collection of my solved list of leetcode questions
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of my solved list of leetcode questions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
