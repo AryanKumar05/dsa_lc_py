@@ -196,15 +196,18 @@ A collection of my solved list of leetcode questions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0543-diameter-of-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -222,4 +225,8 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0102-binary-tree-level-order-traversal) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
