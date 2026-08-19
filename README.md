@@ -194,6 +194,7 @@ A collection of my solved list of leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -201,12 +202,14 @@ A collection of my solved list of leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -240,4 +243,8 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
