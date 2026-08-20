@@ -41,6 +41,7 @@ A collection of my solved list of leetcode questions
 | [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of my solved list of leetcode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
