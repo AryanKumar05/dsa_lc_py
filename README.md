@@ -59,6 +59,7 @@ A collection of my solved list of leetcode questions
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0876-middle-of-the-linked-list) |
@@ -95,6 +96,7 @@ A collection of my solved list of leetcode questions
 | [0049-group-anagrams](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
 ## Counting
@@ -148,6 +150,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -292,6 +295,7 @@ A collection of my solved list of leetcode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -301,4 +305,8 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
