@@ -37,6 +37,7 @@ A collection of my solved list of leetcode questions
 | [0238-product-of-array-except-self](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
@@ -75,6 +76,7 @@ A collection of my solved list of leetcode questions
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
@@ -85,6 +87,7 @@ A collection of my solved list of leetcode questions
 | [0053-maximum-subarray](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -92,11 +95,13 @@ A collection of my solved list of leetcode questions
 | [0049-group-anagrams](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
@@ -284,4 +289,16 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
