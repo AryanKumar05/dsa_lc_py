@@ -32,6 +32,7 @@ A collection of my solved list of leetcode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0283-move-zeroes) |
@@ -205,6 +206,7 @@ A collection of my solved list of leetcode questions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0543-diameter-of-binary-tree) |
@@ -221,6 +223,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0200-number-of-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0200-number-of-islands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -251,4 +255,8 @@ A collection of my solved list of leetcode questions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
