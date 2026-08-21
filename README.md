@@ -29,6 +29,7 @@ A collection of my solved list of leetcode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
@@ -165,6 +166,7 @@ A collection of my solved list of leetcode questions
 | [0078-subsets](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0338-counting-bits) |
