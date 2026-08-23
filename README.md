@@ -34,6 +34,7 @@ A collection of my solved list of leetcode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0238-product-of-array-except-self) |
@@ -117,6 +118,7 @@ A collection of my solved list of leetcode questions
 | [0053-maximum-subarray](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
