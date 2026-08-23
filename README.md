@@ -42,6 +42,7 @@ A collection of my solved list of leetcode questions
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0875-koko-eating-bananas) |
@@ -103,6 +104,7 @@ A collection of my solved list of leetcode questions
 | [0295-find-median-from-data-stream](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -117,11 +119,13 @@ A collection of my solved list of leetcode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
