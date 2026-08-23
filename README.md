@@ -126,6 +126,7 @@ A collection of my solved list of leetcode questions
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -147,6 +148,7 @@ A collection of my solved list of leetcode questions
 | [0205-isomorphic-strings](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
