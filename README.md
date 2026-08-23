@@ -44,6 +44,7 @@ A collection of my solved list of leetcode questions
 | [0303-range-sum-query-immutable](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
@@ -123,6 +124,7 @@ A collection of my solved list of leetcode questions
 | [0213-house-robber-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -327,4 +329,12 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0056-merge-intervals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
