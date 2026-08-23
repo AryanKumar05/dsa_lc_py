@@ -20,6 +20,7 @@ A collection of my solved list of leetcode questions
 | [0041-first-missing-positive](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -96,6 +97,7 @@ A collection of my solved list of leetcode questions
 | ------- |
 | [0015-3sum](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0295-find-median-from-data-stream) |
@@ -313,4 +315,8 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0295-find-median-from-data-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
