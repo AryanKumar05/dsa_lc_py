@@ -126,6 +126,7 @@ A collection of my solved list of leetcode questions
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of my solved list of leetcode questions
 | [0392-is-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1189-maximum-number-of-balloons) |
 ## Trie
 |  |
@@ -337,4 +339,8 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AryanKumar05/dsa_lc_py/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
