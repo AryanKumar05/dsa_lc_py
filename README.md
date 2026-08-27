@@ -19,6 +19,7 @@ A collection of my solved list of leetcode questions
 | [0027-remove-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0056-merge-intervals) |
@@ -59,6 +60,7 @@ A collection of my solved list of leetcode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0125-valid-palindrome) |
@@ -119,6 +121,7 @@ A collection of my solved list of leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -210,12 +213,14 @@ A collection of my solved list of leetcode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/AryanKumar05/dsa_lc_py/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
